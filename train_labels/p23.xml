@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>p23.jpg</filename>
+	<path>C:\Users\ivenz\Desktop\Master\Pedestrian Datasets\train_images\p23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1017</xmin>
+			<ymin>804</ymin>
+			<xmax>1148</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1412</xmin>
+			<ymin>848</ymin>
+			<xmax>1598</xmax>
+			<ymax>1136</ymax>
+		</bndbox>
+	</object>
+</annotation>

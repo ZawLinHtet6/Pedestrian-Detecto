@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>p38.jpg</filename>
+	<path>C:\Users\ivenz\Desktop\Master\Pedestrian Datasets\train_images\p38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>982</width>
+		<height>726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>216</ymin>
+			<xmax>571</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>180</ymin>
+			<xmax>779</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

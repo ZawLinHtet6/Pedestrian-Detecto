@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>p15.jpg</filename>
+	<path>C:\Users\ivenz\Desktop\Master\Pedestrian Datasets\train_images\p15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>304</ymin>
+			<xmax>1421</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>323</ymin>
+			<xmax>542</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>
