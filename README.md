@@ -1,16 +1,17 @@
 # Pedestrian Detection using Detecto from Pytorch
-## This repository contains
+## This project repository contains
 ### Dataset
-    - image files folder and annotation '.xml' files folder
-    - converted '.csv' files of '.xml' files for training and validation
-    - a folder of images for testing
+    - image files folder and annotation xml files folder
+    - converted csv files of xml files for training and validation
+    - a folder of images for testing with model
 ### Colab Notebooks
     - creating custom dataloader and model
     - training with train and val datasets
-    - saving and loading model
     - plotting the loss over time
-    - visualization of detection results
+    - saving and loading model
+    - visualization of model working on validation dataset
+    - visualization of model working on random images
 ### Model Weights
     - models trained with above datasets
 ### Deployment
-    - still working
+    - still working with flask
