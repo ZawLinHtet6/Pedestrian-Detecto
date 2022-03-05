@@ -1,0 +1,7 @@
+detecto
+torch
+matplotlib
+pillow
+image
+numpy
+asarray
